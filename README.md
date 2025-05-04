@@ -1,6 +1,6 @@
 
 
-  <h1>Hi there, I'm [Nahom Zewdie] 👋</h1>
+  <h1>Hi there, I'm Nahom Zewdie 👋</h1>
 
   <p>
     A motivated and creative Front-End Developer in training with ALX Africa.<br />
