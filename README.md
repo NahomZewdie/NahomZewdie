@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://as2.ftcdn.net/v2/jpg/02/83/46/33/1000_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg]" alt="Profile Banner" width="100%"/>
+  <img src="[https://lh6.googleusercontent.com/TcDpux_hUReht2-qVb5p8fPf8zmmBSwipffAlHV1oZBA-XPQQZoOuvJJ7XhKAcs-lqKfd7xjMscctY1XoOyzCkQApYM49coNyczFtRVdWXoIYw39peB3YecWtk8V7ioYKA=w1280]" alt="Profile Banner" width="100%"/>
 
   <h1>Hi there, I'm [Nahom Zewdie] 👋</h1>
 
