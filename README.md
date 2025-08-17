@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/[www.linkedin.com/in/nahom-zewdie-207176200]" target="_blank">
+    <a href="https://linkedin.com/in/www.linkedin.com/in/nahom-zewdie-207176200]" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="[sites.google.com/view/nahom-zewdie-abera/home]" target="_blank">
